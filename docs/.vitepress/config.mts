@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: '5motion',
   description: 'Documentation for 5motion FiveM scripts',
-  base: '/5motion-docs/',
+  base: '/',
   cleanUrls: true,
   lastUpdated: true,
   themeConfig: {
